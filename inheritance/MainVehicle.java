@@ -87,6 +87,7 @@ class Motorcycle extends Vehicle
             maintenanceCost+=1000;
         return maintenanceCost;
     }
+    //
     void displayInfo()
     {
         super.displayInfo();
