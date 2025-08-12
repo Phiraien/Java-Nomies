@@ -51,6 +51,7 @@ class BinarySearch
             else
                 l=mid+1;
         }
+        //
         if(flag==0)
             System.out.println("Element not found");
         else
